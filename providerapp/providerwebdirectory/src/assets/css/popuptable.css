@@ -1,0 +1,145 @@
+.popup {
+    /*position: relative;*/
+    display: inline-block;
+    cursor: pointer;
+    position:absolute;
+    
+    
+    top: 61.5%;
+    left: 3.6%;
+    margin-left: -5px;
+    border-width: 0px;
+    border-style:outset;
+    z-index: 10;
+}
+.DASHHEADERLOGO{
+  margin-right: 2000px;
+}
+
+.CHART{
+  display: flex;
+  justify-content: space-evenly;
+  
+  
+}
+
+.tempbuttons{
+  padding-bottom: 20px;
+  padding-left: 850px;
+}
+
+.gridblank{
+    display: none;
+  }
+
+.custombutton{
+    padding-top: 15px;
+}
+
+.customimportbutton{
+    padding-top: 35px;
+}
+.CREDHEADER {
+  display: flex;
+}
+.CRED {
+  width: 400px;
+  
+  
+  padding-bottom:10px;
+  color: black;
+  font-weight: bold;
+}
+
+.SHOWMEASUREBUTTONHEADER{
+  display: flex;
+  justify-content: center;
+}
+.SHOWMEASUREBUTTON{
+  
+  padding-top: 20px;
+}
+.BAN {
+    width: 400px;
+    padding-left: 20px;
+    
+    
+    color: black;
+    font-weight: bold;
+  }
+
+  .DOWNLOADBUTTON {
+    width: 400px;
+    padding-bottom: 20px;
+    
+    
+    color: black;
+    font-weight: bold;
+  }
+.BAN1 {
+    width: 300px;
+    
+    
+    padding-left: 20px;
+    padding-top: 20px;
+    
+    color: black;
+    font-weight: bold;
+  }
+
+.BANMEASUREYEAR {
+    width: 300px;
+    
+    
+    padding-left: 10px;
+    
+    
+    color: black;
+    font-weight: bold;
+  }
+.BAN2 {
+    width: 250px;
+    border: 0px solid #FF0000;
+    padding: 10px;
+    margin: 20px;
+    background-color:#FF0000;
+    color: white;
+    font-weight: bold;
+  }
+
+  .BAN3 {
+    width: 250px;
+    border: 0px solid 	rgb(199, 186, 4);
+    padding: 10px;
+    margin: 20px;
+    background-color:	rgb(199, 186, 4);
+    color: black;
+    font-weight: bold;
+  }
+
+  .BAN4 {
+    width: 250px;
+    border: 0px solid 	#228B22;
+    padding: 10px;
+    margin: 20px;
+    background-color:	#228B22;
+    color: white;
+    font-weight: bold;
+  }
+.HEADERBAN {
+    display: flex;
+  }
+
+.SELECTBUTTONPOPUP{
+    display: flex;
+    margin-left: 100px;
+}
+
+.SELECTBUTTONSECONDPOPUP{
+    padding: 10px;
+}
+
+.SEARCHBYSELECTOR{
+  
+  margin-left: 0px;
+}
